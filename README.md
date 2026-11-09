@@ -14,3 +14,16 @@ Technologies
 Python 3.8 · PyQt5 · Windows
 
 Développé par : Morsli Hammou
+## 🖥️ Captures d'écran
+
+### Calcul de flexion simple et composée – Section rectangulaire (R)
+![BaelR - Flexion R](screenshots/flexion%20R.png)
+
+### Calcul de flexion simple – Section en T
+![BaelR - Flexion T](screenshots/flexion%20T.png)
+
+### Calcul de la flèche
+![BaelR - Flèche](screenshots/Flèche.png)
+
+### Calcul du moment résistant (MRd)
+![BaelR - Moment résistant](screenshots/MR.png)
